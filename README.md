@@ -5,6 +5,8 @@ provided by the WorldClockAPI.
 
 Also, you can see that in real time the information is updated.
 
+I hosted a [demo site](https://clock.sagacious.club/) using a [docker image](https://hub.docker.com/repository/docker/pk7r/nodejs-git-docker) on an infrastructure I built myself.
+
 ### Challenge
 
 The challenge is to find a way to use the [WorldClockAPI](http://worldclockapi.com/): 
